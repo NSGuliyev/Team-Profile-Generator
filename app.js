@@ -6,7 +6,6 @@ const path = require("path");
 const axios = require("axios");
 const util = require("util");
 const writeFileAsync = util.promisify(fs.writeFile);
-var pdf = require("html-pdf");
 var options = {
   format: "Letter"
 };
