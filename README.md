@@ -1,5 +1,6 @@
 # Team-Profile-Generator
 
+![profile generator](https://user-images.githubusercontent.com/57078118/75004969-de24a000-543a-11ea-94dd-cf7183efc340.gif)
 
 # Purpose of the application
 This NodeJS CLI application ultimate goal is to generate HTML code for a team based on input from the user.
